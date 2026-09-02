@@ -1,8 +1,8 @@
 # Rimrid  Service Marketplace
 
-A modern service marketplace app built with **Flutter + GetX + Clean Architecture**. Discover and book trusted local pros — cleaning, plumbing, electrical, photography, tutoring, beauty, car repair and more  or switch into **Provider Mode** to manage your own services, bookings and earnings.
+A modern service marketplace app built with **Flutter + GetX + Clean Architecture**. Discover and book trusted local pros  cleaning, plumbing, electrical, photography, tutoring, beauty, car repair and more  or switch into **Provider Mode** to manage your own services, bookings and earnings.
 
-The app currently runs entirely on realistic mock data — no backend integration yet  but every screen, controller and route is wired up as it would be in production, so swapping in real APIs later is a matter of replacing the data layer, not rebuilding the UI.
+The app currently runs entirely on realistic mock data  no backend integration yet  but every screen, controller and route is wired up as it would be in production, so swapping in real APIs later is a matter of replacing the data layer, not rebuilding the UI.
 
 ## Tech stack
 
